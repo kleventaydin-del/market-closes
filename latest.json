@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-21 03:20",
+ "generated_utc": "2026-11-21 12:52",
  "note": "End-of-day closes from Yahoo Finance; check each date before use.",
  "failed": [],
  "latest": {
@@ -13,14 +13,14 @@
   "NASDAQ100": {
    "symbol": "^NDX",
    "date": "2026-11-20",
-   "close": 25028.9824,
+   "close": 25028.9805,
    "prev_close": 26517.0508,
    "change_pct": -5.61
   },
   "NASDAQ_COMP": {
    "symbol": "^IXIC",
    "date": "2026-11-20",
-   "close": 22617.7324,
+   "close": 22617.7305,
    "prev_close": 23879.1992,
    "change_pct": -5.28
   },
@@ -48,9 +48,9 @@
   "BRENT": {
    "symbol": "BZ=F",
    "date": "2026-11-20",
-   "close": 89.87,
+   "close": 92.57,
    "prev_close": 91.98,
-   "change_pct": -2.29
+   "change_pct": 0.64
   },
   "USDTRY": {
    "symbol": "USDTRY=X",
@@ -75,24 +75,24 @@
   },
   "KCHOL": {
    "symbol": "KCHOL.IS",
-   "date": "2026-11-19",
-   "close": 193.7,
-   "prev_close": 195.4,
-   "change_pct": -0.87
+   "date": "2026-11-20",
+   "close": 187.2,
+   "prev_close": 193.7,
+   "change_pct": -3.36
   },
   "THYAO": {
    "symbol": "THYAO.IS",
-   "date": "2026-11-19",
-   "close": 328.25,
-   "prev_close": 323.75,
-   "change_pct": 1.39
+   "date": "2026-11-20",
+   "close": 329.0,
+   "prev_close": 328.25,
+   "change_pct": 0.23
   },
   "MGROS": {
    "symbol": "MGROS.IS",
-   "date": "2026-11-19",
-   "close": 449.0,
-   "prev_close": 455.0,
-   "change_pct": -1.32
+   "date": "2026-11-20",
+   "close": 435.25,
+   "prev_close": 449.0,
+   "change_pct": -3.06
   }
  }
 }
