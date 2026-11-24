@@ -1,98 +1,98 @@
 {
- "generated_utc": "2026-11-24 06:13",
+ "generated_utc": "2026-11-24 15:02",
  "note": "End-of-day closes from Yahoo Finance; check each date before use.",
  "failed": [],
  "latest": {
   "QQQ": {
    "symbol": "QQQ",
-   "date": "2026-11-23",
-   "close": 651.03,
-   "prev_close": 608.45,
-   "change_pct": 7.0
+   "date": "2026-11-24",
+   "close": 640.68,
+   "prev_close": 651.03,
+   "change_pct": -1.59
   },
   "NASDAQ100": {
    "symbol": "^NDX",
-   "date": "2026-11-23",
-   "close": 26746.0996,
-   "prev_close": 25028.9805,
-   "change_pct": 6.86
+   "date": "2026-11-24",
+   "close": 26321.373,
+   "prev_close": 26746.0996,
+   "change_pct": -1.59
   },
   "NASDAQ_COMP": {
    "symbol": "^IXIC",
-   "date": "2026-11-23",
-   "close": 24089.5605,
-   "prev_close": 22617.7305,
-   "change_pct": 6.51
+   "date": "2026-11-24",
+   "close": 23796.6523,
+   "prev_close": 24089.5605,
+   "change_pct": -1.22
   },
   "SP500": {
    "symbol": "^GSPC",
-   "date": "2026-11-23",
-   "close": 7237.1699,
-   "prev_close": 6910.3901,
-   "change_pct": 4.73
+   "date": "2026-11-24",
+   "close": 7207.3599,
+   "prev_close": 7237.1699,
+   "change_pct": -0.41
   },
   "VIX": {
    "symbol": "^VIX",
-   "date": "2026-11-23",
-   "close": 26.62,
-   "prev_close": 35.89,
-   "change_pct": -25.83
+   "date": "2026-11-24",
+   "close": 27.44,
+   "prev_close": 26.62,
+   "change_pct": 3.08
   },
   "US10Y": {
    "symbol": "^TNX",
-   "date": "2026-11-23",
-   "close": 4.918,
-   "prev_close": 4.912,
-   "change_pct": 0.12
+   "date": "2026-11-24",
+   "close": 4.91,
+   "prev_close": 4.918,
+   "change_pct": -0.16
   },
   "BRENT": {
    "symbol": "BZ=F",
    "date": "2026-11-24",
-   "close": 86.28,
+   "close": 88.07,
    "prev_close": 89.37,
-   "change_pct": -3.46
+   "change_pct": -1.45
   },
   "USDTRY": {
    "symbol": "USDTRY=X",
    "date": "2026-11-24",
-   "close": 50.6153,
+   "close": 50.6216,
    "prev_close": 50.576,
-   "change_pct": 0.08
+   "change_pct": 0.09
   },
   "BIST100": {
    "symbol": "XU100.IS",
-   "date": "2026-11-23",
-   "close": 11104.4004,
-   "prev_close": 11131.2998,
-   "change_pct": -0.24
+   "date": "2026-11-24",
+   "close": 10979.6104,
+   "prev_close": 11104.4004,
+   "change_pct": -1.12
   },
   "XBANK": {
    "symbol": "XBANK.IS",
-   "date": "2026-11-23",
-   "close": 15885.5,
-   "prev_close": 15782.7998,
-   "change_pct": 0.65
+   "date": "2026-11-24",
+   "close": 15578.25,
+   "prev_close": 15885.5,
+   "change_pct": -1.93
   },
   "KCHOL": {
    "symbol": "KCHOL.IS",
-   "date": "2026-11-20",
-   "close": 187.2,
-   "prev_close": 193.7,
-   "change_pct": -3.36
+   "date": "2026-11-24",
+   "close": 188.5,
+   "prev_close": 190.9,
+   "change_pct": -1.26
   },
   "THYAO": {
    "symbol": "THYAO.IS",
-   "date": "2026-11-20",
-   "close": 329.0,
-   "prev_close": 328.25,
-   "change_pct": 0.23
+   "date": "2026-11-24",
+   "close": 320.75,
+   "prev_close": 321.0,
+   "change_pct": -0.08
   },
   "MGROS": {
    "symbol": "MGROS.IS",
-   "date": "2026-11-20",
-   "close": 435.25,
-   "prev_close": 449.0,
-   "change_pct": -3.06
+   "date": "2026-11-24",
+   "close": 416.0,
+   "prev_close": 427.5,
+   "change_pct": -2.69
   }
  }
 }
